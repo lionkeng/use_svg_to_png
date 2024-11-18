@@ -1,0 +1,10 @@
+[package]
+name = "use_crate_svg_to_png"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cairo-rs = "0.20.5"
+image = "0.25.5"
+rsvg = "0.4.0"
+svg_to_png = "0.1.0"
